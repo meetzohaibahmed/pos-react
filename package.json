@@ -4,7 +4,9 @@
   "description": "Node API for POS a system.",
   "main": "server.js",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "mongoose": "^5.9.20",
     "nodemon": "^2.0.4"
   },
   "devDependencies": {},
